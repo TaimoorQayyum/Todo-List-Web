@@ -4,6 +4,7 @@ The **Todo List Web** application is a simple, interactive, and user-friendly ta
 
 ## Features:
 - **Add Tasks**: Users can easily add tasks to the list, entering a description for each task.
+- **Priority Task**: Users can easily give priority to any task (Low, Medium and High).
 - **Mark Tasks as Completed**: Completed tasks can be marked, making it easy to track progress.
 - **Remove Tasks**: Once tasks are done or no longer needed, users can delete them from the list.
 - **Persistent List**: The tasks remain in the list even after a page refresh (using local storage).
