@@ -29,3 +29,6 @@ This project is open to contributions. If you'd like to improve the functionalit
 
 ## License:
 This project is open-source and licensed under the [MIT License](LICENSE).
+
+**Taimoor Qayyum** - @taimoorqayyum
+**Project Link:**  [https://github.com/TaimoorQayyum/Todo-List-Web](https://github.com/TaimoorQayyum/Todo-List-Web)
